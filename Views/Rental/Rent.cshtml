@@ -1,0 +1,45 @@
+﻿
+@model Rental
+
+
+<link rel="stylesheet" href="~/css/FormCss.css" asp-append-version="true" />
+<section id="content">
+	<!-- MAIN STARTS-->
+	<main class="registration">
+		<div class="container">
+			<header>Rent Video</header>
+			<form method="post" asp-action="Rent" class="form">
+				<div class="column">
+					<div class="input-box">
+						 <label asp-for="CustomerId">Customer</label>
+						 <select asp-for="CustomerId" asp-items="@ViewBag.CustomerSelectList" class="form-control">
+							<option value="">--Select Customer--</option>
+						 </select>
+						 <span asp-validation-for="CustomerId" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="column">
+					<div class="input-box">
+						 <label asp-for="VideoId">Video</label>
+						 <select asp-for="VideoId" asp-items="@ViewBag.VideoSelectList" class="form-control">
+							<option value="">--Select Video--</option>
+						 </select>
+						 <span asp-validation-for="VideoId" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="column">
+					<div class="input-box">
+						<label asp-for="QtyRented">Quantity</label>
+						<input asp-for="QtyRented" class="form-control" placeholder="Enter Qty You want to rent">
+						<span asp-validation-for="QtyRented" class="text-danger"></span>
+					</div>
+				</div>
+			
+				<div class="column">
+					<button style="background-color: grey;" asp-action="Index">Go back to the previous page</button>
+					<button type="submit" value="Save">Save</button>
+				</div>
+			</form>
+		</div>
+	</main>
+</section>

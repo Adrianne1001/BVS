@@ -1,0 +1,60 @@
+﻿	@model IEnumerable<Customer>
+
+	
+
+
+	<link rel="stylesheet" href="~/css/users.css" asp-append-version="true" />
+
+	<section id="content">
+		<!-- MAIN STARTS-->
+		<main class="registration">
+			<div class="head-title">
+				<div class="left">
+					<h1>Customers List</h1>
+				</div>
+			</div>
+			<div class="table-container">
+				<div>
+					<a type="button" class="btn btn-primary py-1 font-weight-light" asp-action="Create">Register Customer</a>
+				</div>
+				<br />
+				<table id="admin-accounts" class="table table-striped" style="width:100%">
+					<thead>
+						<tr>
+							<th>Name</th>
+							<th>Address</th>
+							<th>Birthdate</th>
+							<th>Email</th>
+							<th>Contact Number</th>
+							<th>Sex</th>
+							<th style="">Options</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>@item.Name</td>
+								<td>@item.Address</td>
+								<td>@item.BirthDate.ToString("MM/dd/yyyy")</td>
+								<td>@item.Email</td>
+								<td>@item.ContactNo</td>
+								<td>@item.Sex</td>
+								<td class="d-flex flex-nowrap">
+									<a type="button" class="btn btn-warning  mx-1 py-1 font-weight-light" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+									<a type="button" class="btn btn-success py-1 font-weight-light" asp-action="Report" asp-route-id="@item.Id">Customer Report</a>
+								</td>
+							</tr>
+						}
+
+					</tbody>
+
+				</table>
+			</div>
+
+
+		</main>
+		<!-- MAIN ENDS -->
+	</section>
+
+	<script src="~/js/users.js" asp-append-version="true"></script>

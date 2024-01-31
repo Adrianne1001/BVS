@@ -1,0 +1,100 @@
+﻿@using BogsyVideoStore.ViewModels
+@model ReportCustomerViewModel
+
+
+
+
+	<link rel="stylesheet" href="~/css/users.css" asp-append-version="true" />
+
+	<section id="content">
+		<!-- MAIN STARTS-->
+		<main class="registration">
+			<div class="head-title">
+				<div class="left">
+					<h1>Rentals List for @Model.Name</h1>
+				</div>
+			</div>
+			<div class="table-container">
+				<div>
+					<button id="exportBtn" class="btn btn-success">Export to CSV</button>
+				</div>
+				<br />
+				<table id="admin-accounts" class="table table-striped" style="width:100%">
+					<thead>
+						<tr>
+                            <th>Video Title</th>
+                            <th>Quantity Rented</th>
+                            <th>Date Rented</th>
+                            <th>Rent Duration</th>
+                            <th>RentDueDate</th>
+                            <th>Initial Rent Charge</th>
+                            <th>Due Fees</th>
+                            <th>Total Payable</th>
+                        </tr>
+					</thead>
+					 <tbody>
+                      @foreach (var item in Model.Rentals)
+                        {
+                            <tr>
+                                <td>@item.Video.Title</td>
+                                <td>@item.QtyRented</td>
+                                <td>@item.DateRented</td>
+                                <td>@item.Video.rentDuration</td>
+                                <td>@item.RentDueDate</td>
+                                <td>@item.RentCharge</td>
+                                <td>@item.DueFees</td>
+                                <td>@item.TotalCharge</td>
+                            </tr>
+                        }
+                    </tbody>
+
+				</table>
+			</div>
+
+
+		</main>
+		<!-- MAIN ENDS -->
+	</section>
+
+
+@section scripts {
+   <script>
+   $(document).ready(function () {
+            $("#exportBtn").click(function () {
+                exportToCSV();
+            });
+
+            function exportToCSV() {
+                var csvContent = "data:text/csv;charset=utf-8,";
+
+                var headers = [];
+                $("#admin-accounts th").each(function () {
+                    headers.push($(this).text().trim());
+                });
+                csvContent += headers.join(",") + "\n";
+
+                $("#admin-accounts tbody tr").each(function () {
+                    var row = [];
+                    $(this).find('td').each(function () {
+                        row.push($(this).text().trim());
+                    });
+                    csvContent += row.join(",") + "\n";
+                });
+
+                var renterName = "@Model.Name";
+
+                var encodedUri = encodeURI(csvContent);
+                var link = document.createElement("a");
+                link.setAttribute("href", encodedUri);
+                
+                link.setAttribute("download", renterName + "_RentalList.csv");
+                
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            }
+        });
+   </script>
+   
+	<script src="~/js/users.js" asp-append-version="true"></script>
+}

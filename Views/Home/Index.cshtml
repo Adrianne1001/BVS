@@ -1,0 +1,84 @@
+﻿@using BogsyVideoStore.ViewModels
+@model HomeViewModel
+
+<link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/main.css" asp-append-version="true" />
+<link
+    href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp"
+    rel="stylesheet"
+/>
+    
+<section id = "content">
+    <main>
+            <h1>Dashboard</h1>
+
+            <div class="insights">
+              <div class="sales">
+                <span class="material-icons-sharp">analytics</span>
+                <div class="middle">
+                  <div class="left">
+                    <h3>Total Customers</h3>
+                    <h1>@Model.TotalRegisteredCustomers</h1>
+                  </div>
+                </div>
+
+              </div>
+          
+              <div class="expenses">
+                <span class="material-icons-sharp">bar_chart</span>
+                <div class="middle">
+                  <div class="left">
+                    <h3>Total Video Quantity</h3>
+                    <h1>@Model.TotalVideoStocks</h1>
+                  </div>
+                  
+                </div>
+              </div>
+
+              <div class="income">
+                <span class="material-icons-sharp">stacked_line_chart</span>
+                <div class="middle">
+                  <div class="left">
+                    <h3>Total Available Videos</h3>
+                    <h1>@Model.TotalVideoAvailable</h1>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+
+
+            <div class="recent-orders">
+              <h2>Recent Orders</h2>
+
+              <table>
+                <thead>
+                  <tr>
+                    <th>Video Title</th>
+                    <th>Customer Name</th>
+                    <th>Quantity Rented</th>
+                    <th>Date Rented</th>
+                    <th>Rent Limit</th>
+                    <th>Rent Due Date</th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody>
+                      @foreach (var item in Model.Rentals)
+                        {
+                            <tr>
+                                <td>@item.Video.Title</td>
+                                <td>@item.Customer.Name</td>
+                                <td>@item.QtyRented</td>
+                                <td>@item.DateRented</td>
+                                <td>@item.Video.rentDuration</td>
+                                <td>@item.RentDueDate</td>
+                            </tr>
+                        }
+                    </tbody>
+              </table>
+
+              <a asp-controller="Rental" asp-action="Index">Show All</a>
+            </div>
+     </main>
+</section>

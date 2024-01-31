@@ -1,0 +1,83 @@
+﻿@using BogsyVideoStore.ViewModels
+
+@model ReturnRentalViewModel
+
+
+<link rel="stylesheet" href="~/css/FormCss.css" asp-append-version="true" />
+<section id="content">
+	<!-- MAIN STARTS-->
+	<main class="registration">
+		<div class="container">
+			<header>Return Video</header>
+			<form method="post" asp-action="Return" class="form">
+				<input asp-for="CustomerId" class="form-control" value="@Model.CustomerId" hidden>
+				 <input asp-for="VideoId" class="form-control" value="@Model.VideoId" hidden>
+				<div class="column">
+					<div class="input-box">
+						 <label asp-for="Customer.Name">Name</label>
+						<input asp-for="Customer.Name"  value="@Model.Customer.Name" class="form-control" readonly>
+						<span asp-validation-for="Customer" class="text-danger"></span>
+					</div>
+					<div class="input-box">
+						<label asp-for="Video.Title">Video Title</label>
+						<input asp-for="Video.Title"  value="@Model.Video.Title" class="form-control" readonly>
+						<span asp-validation-for="Video.Title" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="column">
+					<div class="input-box">
+						<label asp-for="Video.VideoType">Video Type</label>
+						<input asp-for="Video.VideoType"  value="@Model.Video.VideoType" class="form-control" readonly>
+						<span asp-validation-for="Video.VideoType" class="text-danger"></span>
+					</div>
+					<div class="input-box">
+						<label asp-for="DateRented">Date Rented</label>
+						<input asp-for="DateRented" type="datetime" value="@Model.DateRented"  class="form-control" readonly>
+						<span asp-validation-for="DateRented" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="column">
+					<div class="input-box">
+						<label asp-for="RentDuration">Rent Duration</label>
+						<input asp-for="RentDuration"   value="@Model.RentDuration" class="form-control" readonly>
+						<span asp-validation-for="RentDuration" class="text-danger"></span>
+					</div>
+					<div class="input-box">
+						<label asp-for="DueDate">Rent Due Date</label>
+						<input asp-for="DueDate"  type="datetime" value="@Model.DueDate" class="form-control" readonly>
+						<span asp-validation-for="DueDate" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="column">
+					<div class="input-box">
+						<label asp-for="QtyRented">Quantity Rented</label>
+						<input asp-for="QtyRented" value="@Model.QtyRented" class="form-control" readonly>
+						<span asp-validation-for="QtyRented" class="text-danger"></span>
+					</div>
+					<div class="input-box">
+						<label asp-for="OriginalCharge">Original Charge</label>
+						<input asp-for="OriginalCharge" value="@Model.OriginalCharge" class="form-control" readonly>
+						<span asp-validation-for="OriginalCharge" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="column">
+					<div class="input-box">
+						<label asp-for="DueFees">Due Fees</label>
+						<input asp-for="DueFees" value="@Model.DueFees" class="form-control" readonly>
+						<span asp-validation-for="DueFees"  class="text-danger"></span>
+					</div>
+					<div class="input-box">
+						<label asp-for="TotalCharge">Total Charge</label>
+						<input asp-for="TotalCharge" value="@Model.TotalCharge" class="form-control" readonly>
+						<span asp-validation-for="TotalCharge" class="text-danger"></span>
+					</div>
+				</div>
+			
+				<div class="column">
+					<button style="background-color: grey;" asp-action="Index">Go back to the previous page</button>
+					<button type="submit" value="Save">Return</button>
+				</div>
+			</form>
+		</div>
+	</main>
+</section>

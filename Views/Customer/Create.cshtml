@@ -1,0 +1,64 @@
+﻿@using BogsyVideoStore.Data.Enum
+
+@model Customer
+
+
+<link rel="stylesheet" href="~/css/FormCss.css" asp-append-version="true" />
+<section id="content">
+	<!-- MAIN STARTS-->
+	<main class="registration">
+		<div class="container">
+			<header>Register Customer</header>
+			<form method="post" asp-action="Create" class="form">
+				<div class="column">
+					<div class="input-box">
+						<label asp-for="Name">Name</label>
+						<input asp-for="Name" class="form-control" placeholder="Enter Name">
+						<span asp-validation-for="Name" class="text-danger"></span>
+					</div>
+					<div class="input-box">
+						<label asp-for="Address">Address</label>
+						<input asp-for="Address" class="form-control" placeholder="Enter Address">
+						<span asp-validation-for="Address" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="column">
+
+					<div class="input-box">
+						<label asp-for="BirthDate">BirthDate</label>
+						<input asp-for="BirthDate" type="date" class="form-control" placeholder="Select Birthdate">
+						<span asp-validation-for="BirthDate" class="text-danger"></span>
+					</div>
+
+					<div class="input-box">
+						 <label asp-for="Email">Email</label>
+						<input asp-for="Email" class="form-control" placeholder="Enter Email">
+						<span asp-validation-for="Email" class="text-danger"></span>
+					</div>
+
+				</div>
+
+				<div class="column">
+					
+					<div class="input-box">
+						<label asp-for="ContactNo">Contact Number</label>
+						<input asp-for="ContactNo" class="form-control" placeholder="Enter Contact Number">
+						<span asp-validation-for="ContactNo" class="text-danger"></span>
+					</div>
+					<div class="input-box">
+						<label asp-for="Sex">Sex</label>
+						 <select asp-for="Sex" asp-items="@Html.GetEnumSelectList<Sex>()" class="form-control">
+							  <option>--Sex--</option>
+						 </select>
+						 <span asp-validation-for="Sex" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="column">
+					<button style="background-color: grey;" asp-action="Index">Go back to the previous page</button>
+					<button type="submit" value="Save">Save</button>
+				</div>
+
+			</form>
+		</div>
+	</main>
+</section>

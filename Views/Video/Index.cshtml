@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Video>
+
+
+
+
+
+	<link rel="stylesheet" href="~/css/users.css" asp-append-version="true" />
+
+	<section id="content">
+		<!-- MAIN STARTS-->
+		<main class="registration">
+			<div class="head-title">
+				<div class="left">
+					<h1>Videos List</h1>
+				</div>
+				
+			</div>
+			<div class="table-container">
+				
+				<div>
+					<a type="button" class="btn btn-primary py-1 font-weight-light" asp-action="Create">Add Video</a>
+					<button id="exportBtn" class="btn btn-success py-1 font-weight-light">Export to CSV</button>
+				</div>
+				<br />
+				<table id="admin-accounts" class="table table-striped" style="width:100%">
+					<thead>
+						<tr>
+							<th>Title</th>
+							<th>Category</th>
+							<th>Genre</th>
+							<th>Rent Limit</th>
+							<th>Total Quantity</th>
+							<th>Quantity Inside</th>
+							<th>Quantity Out</th>
+							<th style="">Options</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>@item.Title</td>
+								<td>@item.VideoType</td>
+								<td>@item.Genre</td>
+								<td>@item.rentDuration</td>
+								<td>@item.QtyTotal</td>
+								<td>@item.QtyIn</td>
+								<td>@item.QtyOut</td>
+								<td class="d-flex flex-nowrap">
+									<a type="button" class="btn btn-warning  mx-1 py-1 font-weight-light" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+									<a type="button" class="btn btn-danger py-1 font-weight-light" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+								</td>
+							</tr>
+						}
+
+					</tbody>
+
+				</table>
+			</div>
+
+
+		</main>
+		<!-- MAIN ENDS -->
+	</section>
+
+		
+@section scripts {
+    <script src="~/js/VideoIndex.js" asp-append-version="true"></script>
+	<script src="~/js/users.js" asp-append-version="true"></script>
+}

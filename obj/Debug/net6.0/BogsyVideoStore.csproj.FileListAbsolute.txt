@@ -1,0 +1,246 @@
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\appsettings.Development.json
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\appsettings.json
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\BogsyVideoStore.staticwebassets.runtime.json
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\BogsyVideoStore.exe
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\BogsyVideoStore.deps.json
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\BogsyVideoStore.runtimeconfig.json
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\BogsyVideoStore.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\BogsyVideoStore.pdb
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Azure.Core.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Azure.Identity.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Humanizer.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.CodeDom.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.Memory.Data.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.Text.Json.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\asp-net Practice\BogsyVideoStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.csproj.AssemblyReference.cache
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.AssemblyInfoInputs.cache
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.AssemblyInfo.cs
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.csproj.CoreCompileInputs.cache
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.MvcApplicationPartsAssemblyInfo.cache
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.RazorAssemblyInfo.cache
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.RazorAssemblyInfo.cs
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\scopedcss\bundle\BogsyVideoStore.styles.css
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\scopedcss\projectbundle\BogsyVideoStore.bundle.scp.css
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.csproj.CopyComplete
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.dll
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\refint\BogsyVideoStore.dll
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.pdb
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\BogsyVideoStore.genruntimeconfig.cache
+C:\asp-net Practice\BogsyVideoStore\obj\Debug\net6.0\ref\BogsyVideoStore.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\appsettings.json
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.staticwebassets.runtime.json
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.exe
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.deps.json
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.runtimeconfig.json
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.pdb
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Azure.Core.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Azure.Identity.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Humanizer.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.CodeDom.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Memory.Data.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Text.Json.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.csproj.AssemblyReference.cache
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.AssemblyInfoInputs.cache
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.AssemblyInfo.cs
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.csproj.CoreCompileInputs.cache
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.MvcApplicationPartsAssemblyInfo.cache
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.RazorAssemblyInfo.cache
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.RazorAssemblyInfo.cs
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\scopedcss\bundle\BogsyVideoStore.styles.css
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\scopedcss\projectbundle\BogsyVideoStore.bundle.scp.css
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.csproj.CopyComplete
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\refint\BogsyVideoStore.dll
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.pdb
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.genruntimeconfig.cache
+C:\asp-net Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\ref\BogsyVideoStore.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.csproj.AssemblyReference.cache
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.AssemblyInfoInputs.cache
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.AssemblyInfo.cs
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.csproj.CoreCompileInputs.cache
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.MvcApplicationPartsAssemblyInfo.cache
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.RazorAssemblyInfo.cache
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.RazorAssemblyInfo.cs
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\refint\BogsyVideoStore.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.pdb
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\appsettings.json
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.staticwebassets.runtime.json
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.exe
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.deps.json
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.runtimeconfig.json
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\BogsyVideoStore.pdb
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Azure.Core.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Azure.Identity.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Humanizer.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.CodeDom.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Memory.Data.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Text.Json.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\scopedcss\bundle\BogsyVideoStore.styles.css
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\scopedcss\projectbundle\BogsyVideoStore.bundle.scp.css
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.csproj.CopyComplete
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\BogsyVideoStore.genruntimeconfig.cache
+C:\asp-net MVC Practice\BogsyVideoStore - Copy\obj\Debug\net6.0\ref\BogsyVideoStore.dll

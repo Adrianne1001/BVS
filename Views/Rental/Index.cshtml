@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Rental>
+
+	
+
+		
+	<link rel="stylesheet" href="~/css/users.css" asp-append-version="true" />
+
+	<section id="content">
+		<!-- MAIN STARTS-->
+		<main class="registration">
+			<div class="head-title">
+				<div class="left">
+					<h1>Rentals List</h1>
+				</div>
+			</div>
+			<div class="table-container">
+				<div>
+					<a type="button" class="btn btn-primary py-1 font-weight-light" asp-action="Rent">Rent Video</a>
+				</div>
+				<br />
+				<table id="admin-accounts" class="table table-striped" style="width:100%">
+					<thead>
+						<tr>
+							<th>Video Title</th>
+							<th>Category</th>
+							<th>Customer Name</th>
+							<th>Quantity Rented</th>
+							<th>Date Rented</th>
+							<th>DueDate</th>
+							<th>Initial Rent Charge</th>
+							<th style="">Options</th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>@item.Video.Title</td>
+								<td>@item.Video.VideoType</td>
+								<td>@item.Customer.Name</td>
+								<td>@item.QtyRented</td>
+								<td>@item.DateRented</td>
+								<td>@item.RentDueDate</td>
+								<td>@item.RentCharge</td>
+								<td class="d-flex flex-nowrap">
+									<a type="button" class="btn btn-success  mx-1 py-1 font-weight-light" asp-action="Return" asp-route-id="@item.Id">Return</a>
+								</td>
+							</tr>
+						}
+
+					</tbody>
+
+				</table>
+			</div>
+
+
+		</main>
+		<!-- MAIN ENDS -->
+	</section>
+
+	<script src="~/js/users.js" asp-append-version="true"></script>
