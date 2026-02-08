@@ -57,9 +57,11 @@ namespace BogsyVideoStore.Migrations
                     CustomerId = table.Column<int>(type: "int", nullable: false),
                     VideoId = table.Column<int>(type: "int", nullable: false),
                     DateRented = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    RentDueDate = table.Column<DateTime>(type: "datetime2", nullable: true),
+                    RentDueDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     QtyRented = table.Column<int>(type: "int", nullable: false),
-                    RentCharge = table.Column<int>(type: "int", nullable: false)
+                    RentCharge = table.Column<int>(type: "int", nullable: false),
+                    DueFees = table.Column<int>(type: "int", nullable: true),
+                    TotalCharge = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {

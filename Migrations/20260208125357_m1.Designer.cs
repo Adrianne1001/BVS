@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BogsyVideoStore.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240127003017_m1")]
+    [Migration("20260208125357_m1")]
     partial class m1
     {
         /// <inheritdoc />
@@ -20,7 +20,7 @@ namespace BogsyVideoStore.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.15")
+                .HasAnnotation("ProductVersion", "9.0.12")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -74,14 +74,20 @@ namespace BogsyVideoStore.Migrations
                     b.Property<DateTime>("DateRented")
                         .HasColumnType("datetime2");
 
+                    b.Property<int?>("DueFees")
+                        .HasColumnType("int");
+
                     b.Property<int>("QtyRented")
                         .HasColumnType("int");
 
                     b.Property<int>("RentCharge")
                         .HasColumnType("int");
 
-                    b.Property<DateTime?>("RentDueDate")
+                    b.Property<DateTime>("RentDueDate")
                         .HasColumnType("datetime2");
+
+                    b.Property<int?>("TotalCharge")
+                        .HasColumnType("int");
 
                     b.Property<int>("VideoId")
                         .HasColumnType("int");
